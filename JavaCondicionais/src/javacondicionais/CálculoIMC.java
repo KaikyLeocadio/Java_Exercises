@@ -32,7 +32,7 @@ public class CálculoIMC {
 		} else if (calculoIMC >= 40) {
 		System.out.println("Você está com obesidade III (Mórbida)");
 		} else {
-		System.out.println("Morra");
+		System.out.println("Null");
 		}
 	}
 
